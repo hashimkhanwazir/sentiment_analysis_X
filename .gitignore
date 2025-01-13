@@ -1,0 +1,19 @@
+# Ignore DS_Store files (macOS system files)
+.DS_Store
+
+# Ignore environment variable files
+.env
+
+# Ignore Python bytecode files
+*.pyc
+*.pyo
+__pycache__/
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore virtual environment directory
+sentimentAnalysis/
+
+# Ignore config files that may contain sensitive data
+config.json
+
