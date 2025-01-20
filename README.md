@@ -27,4 +27,6 @@ These hashtags are used to collect tweets that mention or are related to these t
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/sentiment-analysis-newyear-tweets.git
+   git clone git@github.com:hashimkhanwazir/sentiment_analysis_X.git
+   cd ./sentiment_analysis_X
+   
