@@ -100,8 +100,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ### Contributors
 
 - **[Hashim Khan]** - Project lead, development, and analysis.
-  - GitHub: [@hashimkhanwazir](https://github.com/YourGitHub)
-  - LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/hashim-khan-36b97818/)
+  - GitHub: [@hashimkhanwazir](https://github.com/hashimkhanwazir)
+  - LinkedIn: [@hashim-khan-36b97818/](https://www.linkedin.com/in/hashim-khan-36b97818/)
   
 - **[Contributor 1's Name]** - Sentiment analysis assistance.
   - GitHub: [@Contributor1GitHub](https://github.com/Contributor1GitHub)
