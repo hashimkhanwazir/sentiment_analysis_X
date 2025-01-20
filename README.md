@@ -30,3 +30,9 @@ These hashtags are used to collect tweets that mention or are related to these t
    git clone git@github.com:hashimkhanwazir/sentiment_analysis_X.git
    cd ./sentiment_analysis_X
    
+2. Install the required dependencies:
+   pip install -r requirements.txt
+
+3. Set up the Tweepy API by creating an application in the `X Developer Portal` and obtain your credentials (API key, API secret key, Access token, and Access token secret). Store these credentials in a `.env` file.
+
+Example `.env` file:
