@@ -108,5 +108,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
   - LinkedIn: [@bojanmircheski/](https://www.linkedin.com/in/bojanmircheski/)
   
 - **[Tristan Mertins]** - Team member
-  - GitHub: [@Contributor2GitHub](https://github.com/Contributor2GitHub)
+  - GitHub: [@TrisMert](https://github.com/TrisMert)
   - LinkedIn: [@tristen-mertins](https://www.linkedin.com/in/tristan-mertins/)
