@@ -77,9 +77,36 @@ c. **Extract Tweets**:
    - Ensure that your **Tweepy API credentials** are properly set up in the notebook (using the `.env` file you created in Step 3).
    - Rest of the steps are self explanetory.
 
-
-
-
 d. **Check the Output**:
    - The extracted tweets will be displayed within the notebooks or saved into files, depending on the direcory path and file names.
 
+## Dependencies
+
+- **tweepy**: For interacting with the Tweepy API.
+- **vaderSentiment**: For sentiment analysis using the Vader Sentiment model.
+- **pandas**: For data manipulation.
+- **matplotlib** and **seaborn**: For data visualization.
+- **dotenv**: For loading environment variables.
+
+### License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+### Acknowledgments
+
+- Special thanks to the creators of the **Tweepy API** for providing an easy-to-use interface for extracting tweets from X (formerly Twitter).
+- Thanks to the creators of the **Vader Sentiment** model for providing an efficient tool for sentiment analysis.
+
+### Contributors
+
+- **[Hashim Khan]** - Project lead, development, and analysis.
+  - GitHub: [@hashimkhanwazir](https://github.com/YourGitHub)
+  - LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/hashim-khan-36b97818/)
+  
+- **[Contributor 1's Name]** - Sentiment analysis assistance.
+  - GitHub: [@Contributor1GitHub](https://github.com/Contributor1GitHub)
+  - LinkedIn: [Contributor 1 LinkedIn](https://www.linkedin.com/in/Contributor1LinkedIn)
+  
+- **[Contributor 2's Name]** - Data extraction and translation tasks.
+  - GitHub: [@Contributor2GitHub](https://github.com/Contributor2GitHub)
+  - LinkedIn: [Contributor 2 LinkedIn](https://www.linkedin.com/in/Contributor2LinkedIn)
