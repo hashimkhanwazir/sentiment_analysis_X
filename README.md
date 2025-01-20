@@ -35,4 +35,14 @@ These hashtags are used to collect tweets that mention or are related to these t
 
 3. Set up the Tweepy API by creating an application in the `X Developer Portal` and obtain your credentials (API key, API secret key, Access token, and Access token secret). Store these credentials in a `.env` file.
 
-Example `.env` file:
+   Example `.env` file:
+   
+   API_KEY=your_api_key
+   
+   API_SECRET_KEY=your_api_secret_key
+   
+   ACCESS_TOKEN=your_access_token
+   
+   ACCESS_TOKEN_SECRET=your_access_token_secret
+
+
