@@ -99,14 +99,14 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ### Contributors
 
-- **[Hashim Khan]** - Project lead, Maintaine
+- **Hashim Khan** - Project lead, Maintaine
   - GitHub: [@hashimkhanwazir](https://github.com/hashimkhanwazir)
   - LinkedIn: [@hashim-khan-36b97818/](https://www.linkedin.com/in/hashim-khan-36b97818/)
   
-- **[Bojan Mircheski]** - Team member
+- **Bojan Mircheski** - Team member
   - GitHub: [@Bojch](https://github.com/Bojch)
   - LinkedIn: [@bojanmircheski/](https://www.linkedin.com/in/bojanmircheski/)
   
-- **[Tristan Mertins]** - Team member
+- **Tristan Mertins** - Team member
   - GitHub: [@TrisMert](https://github.com/TrisMert)
   - LinkedIn: [@tristen-mertins](https://www.linkedin.com/in/tristan-mertins/)
