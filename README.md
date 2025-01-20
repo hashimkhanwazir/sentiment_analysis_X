@@ -45,4 +45,40 @@ These hashtags are used to collect tweets that mention or are related to these t
    
    ACCESS_TOKEN_SECRET=your_access_token_secret
 
+4. Run the Notebooks to Extract Tweets
+   Now that you have everything set up, you can start extracting tweets. Since the project is using Jupyter Notebooks (`.ipynb` files), follow these steps:
+
+ a. **Open Jupyter Notebook**:
+   - In your terminal, navigate to the directory where your notebooks are stored.
+   - Launch Jupyter Notebook by running the following command:
+     ```bash
+     jupyter notebook
+     ```
+   - This will open a new tab in your browser with the Jupyter interface. Navigate to the notebook files listed below:
+     
+     - `data_extractor.ipynb`
+     - `data_cleaner.ipynb`
+     - `data_merger.ipynb`
+     - `data_translater.ipynb`
+     - `sentimentAnalysis.ipynb`
+
+b. **Run the Notebooks one by one**:
+   - Open each notebook one by one, starting with `data_cleaner.ipynb`.
+   - To run a cell, click on the cell and press `Shift + Enter` or use the "Run" button in the toolbar.
+   - Follow the order:
+     1. **`data_extractor.ipynb`**: Extract tweets from X (formerly Twitter) using the Tweepy API.
+     2. **`*data_cleaner.ipynb`**: Clean the extracted tweet data.
+     3. **`data_merger.ipynb`**: Merge the extracted tweet data.
+     4. **`data_translater.ipynb`**: Translate the tweets from German to English.
+     5. **`sentimentAnalysis.ipynb`**: Perform sentiment analysis on the translated tweets.
+
+c. **Extract Tweets**:
+   - The **`data_extractor.ipynb`** notebook will execute the code that extracts tweets based on the specified hashtags.
+   - Ensure that your **Tweepy API credentials** are properly set up in the notebook (using the `.env` file you created in Step 3).
+   - Rest of the steps are self explanetory.
+
+
+d. **Check the Output**:
+   - The extracted tweets will be displayed within the notebooks or saved into files, depending on the direcory path and file names.
+
 
