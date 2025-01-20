@@ -103,10 +103,10 @@ This project is licensed under the MIT License - see the LICENSE file for detail
   - GitHub: [@hashimkhanwazir](https://github.com/hashimkhanwazir)
   - LinkedIn: [@hashim-khan-36b97818/](https://www.linkedin.com/in/hashim-khan-36b97818/)
   
-- **[Bojan Mircheski]** - Team member.
+- **[Bojan Mircheski]** - Team member
   - GitHub: [@Bojch](https://github.com/Bojch)
   - LinkedIn: [@bojanmircheski/](https://www.linkedin.com/in/bojanmircheski/)
   
-- **[Contributor 2's Name]** - Data extraction and translation tasks.
+- **[Tristan Mertins]** - Team member
   - GitHub: [@Contributor2GitHub](https://github.com/Contributor2GitHub)
-  - LinkedIn: [Contributor 2 LinkedIn](https://www.linkedin.com/in/Contributor2LinkedIn)
+  - LinkedIn: [@tristen-mertins](https://www.linkedin.com/in/tristan-mertins/)
