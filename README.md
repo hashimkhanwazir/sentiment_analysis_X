@@ -109,4 +109,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
   
 - **Tristan Mertins** - Team member
   - GitHub: [@TrisMert](https://github.com/TrisMert)
-  - LinkedIn: [@tristen-mertins](https://www.linkedin.com/in/tristan-mertins/)
+  - LinkedIn: [@tristan-mertins](https://www.linkedin.com/in/tristan-mertins/)
